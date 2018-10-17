@@ -1,0 +1,4 @@
+  1	   Chinese     on	 10	 4	 2	 	50
+  2	   English     on	 10	 4	 2	 	50
+  3	   Math        on	 18	 8	 2	 	50
+  4	   Python      on	 20	 10	 2	 	60

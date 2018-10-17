@@ -1,0 +1,8 @@
+STU      Sadd     2         ymq	    Chinese  Math     English    16
+STU      Sadd     3         cyb	    Python   null     null       10
+STU      Sadd     4          lk	    null     null     null        0
+STU      Sdelate  4          lk	    null     null     null        0
+STU      Schange  3         cyb	    Python   Chinese  null       14
+CLS      Cadd      5	   wuli        on	 0	 0	 0	 	0
+CLS      Cdelate   5	   wuli        on	 0	 0	 0	 	0
+CLS      Cchange   4	   Python      on	 20	 10	 2	 	60
